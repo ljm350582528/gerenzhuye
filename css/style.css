@@ -320,6 +320,8 @@ figure.effect-bubba {
 }
 
 figure.effect-bubba img {
+    width: 582px;
+    height: 387px;
 	opacity: 0.8;
 	-webkit-transition: opacity 0.35s;
 	transition: opacity 0.35s;
@@ -663,18 +665,4 @@ and (max-width : 480px) {
     margin-top: 7px;
     font-size: 20px;
 }
-}
-.gerenxinxi{
-    width: 100%;
-    height: 400px;
-}
-.gerenxinxi span{
-    font-size: 30px;
-
-}
-.gerenxinxi_left{
-    float: left;
-}
-.gerenxinxi_right{
-    float:right;
 }
